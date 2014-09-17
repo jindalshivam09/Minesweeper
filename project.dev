@@ -1,0 +1,211 @@
+[Project]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\Initialiser.dev
+Name=MINESWEEPER
+Type=1
+Ver=1
+ObjFiles=
+Includes=
+Libs=
+PrivateResource=Initialiser_private.rc
+ResourceIncludes=
+MakeIncludes=
+Compiler=
+CppCompiler=
+Linker=-lallegro-5.0.4-monolith-mt -lshlwapi_@@_
+IsCpp=1
+Icon=Initialiser.ico
+ExeOutput=
+ObjectOutput=
+LogOutput=
+LogOutputEnabled=0
+OverrideOutput=0
+OverrideOutputName=Initialiser.exe
+HostApplication=
+Folders=AI,images,INTERFACE,sound
+CommandLine=
+UseCustomMakefile=0
+CustomMakefile=
+IncludeVersionInfo=1
+SupportXPThemes=0
+CompilerSet=0
+CompilerSettings=0000000000000000000000
+UnitCount=16
+
+[VersionInfo]
+Major=1
+Minor=0
+Release=0
+Build=651
+LanguageID=16393
+CharsetID=1252
+CompanyName=Himvan
+FileVersion=1.0.0.27
+FileDescription=Minesweeper
+InternalName=MS 1.0
+LegalCopyright=Copyright 2013. Shobhit Saxena
+LegalTrademarks=
+OriginalFilename=
+ProductName=Minesweeper
+ProductVersion=1.0.0.27
+AutoIncBuildNr=1
+SyncProduct=1
+
+[Unit3]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\header.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit4]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\stats.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit1]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\main.cpp
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit2]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\gridinit.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit5]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\time.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit6]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\images\icon.ico
+Folder=images
+Compile=0
+Link=0
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit7]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\interface\init.h
+CompileCpp=1
+Folder=INTERFACE
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit8]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\path.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit10]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\save.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit11]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\sound\blast.mp3
+CompileCpp=1
+Folder=sound
+Compile=0
+Link=0
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit9]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\interface\gameplay.h
+CompileCpp=1
+Folder=INTERFACE
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit12]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\interface\printtiles.h
+CompileCpp=1
+Folder=INTERFACE
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit13]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\interface\frontscreen.h
+CompileCpp=1
+Folder=INTERFACE
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit14]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\interface\newgame.h
+CompileCpp=1
+Folder=
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit16]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\ai\stack.h
+CompileCpp=1
+Folder=AI
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
+[Unit15]
+FileName=C:\Users\admin\Desktop\FINAL PROJECT1\GRIDPROJ1\ai\ai.h
+CompileCpp=1
+Folder=AI
+Compile=1
+Link=1
+Priority=1000
+OverrideBuildCmd=0
+BuildCmd=
+
